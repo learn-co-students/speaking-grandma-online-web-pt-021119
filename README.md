@@ -17,5 +17,5 @@ and yells back
 
 NO, NOT SINCE 1938!
 ## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43) - [Chapter 7 Flow Control](http://books.flatironschool.com/books/43), page 49
-* [Learn to Program](http://books.flatironschool.com/books/43) - [Deaf Grandma](http://books.flatironschool.com/books/43), page 141
+* [Learn to Program](http://books.flatironschool.com/books/43?page=49) - [Chapter 7 Flow Control](http://books.flatironschool.com/books/43?page=49), page 49
+* [Learn to Program](http://books.flatironschool.com/books/43?page=141) - [Deaf Grandma](http://books.flatironschool.com/books/43?page=141), page 141
