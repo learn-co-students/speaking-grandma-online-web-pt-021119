@@ -33,6 +33,3 @@ There are many methods on the [String class](http://www.ruby-doc.org/core-2.1.4/
 
 Which one can we use to check that the input string (what you're saying to Grandma) is in all capitals?
 
-## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43?page=49) - [Chapter 7 Flow Control](http://books.flatironschool.com/books/43?page=49), page 49
-* [Learn to Program](http://books.flatironschool.com/books/43?page=141) - [Deaf Grandma](http://books.flatironschool.com/books/43?page=141), page 141
