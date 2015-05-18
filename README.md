@@ -23,7 +23,7 @@ There are many methods on the [String class](http://www.ruby-doc.org/core-2.1.4/
 #=> "HELLO WORLD"
 "Hello World".reverse
 #=> "dlroW olleH" 
-"Hello World". downcase
+"Hello World".downcase
 #=> "hello world" 
 "Hello World".capitalize
 #=> "Hello world" 
