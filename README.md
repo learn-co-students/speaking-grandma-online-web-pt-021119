@@ -12,11 +12,11 @@
 2. Run the test suite using either the `rspec` or `learn` command. You'll be coding your solution in `grandma.rb`.
 3. Write a `speak_to_grandma` method. 
 	* The method should take in a string argument containing a phrase and check to see if the phrase is written in all uppercase: if it isn't, then grandma can't hear you. She should then respond with (return) `HUH?! SPEAK UP, SONNY!`.
-	* However, if you shout at her (i.e. call the method with an string argument containing a phrase that *is* all uppercase, then she *can* hear you (or at least she thinks that she can) and should respond with (return) `NO, NOT SINCE 1938!`.
+	* However, if you shout at her (i.e. call the method with a string argument containing a phrase that *is* all uppercase, then she *can* hear you (or at least she thinks that she can) and should respond with (return) `NO, NOT SINCE 1938!`.
 
 **A few things to think about:**
 
-* You'll need to use an `if` and an `else` statement to implement the logic of grandma responding with appropriate string based on whether or not you speak to her in all uppercase. 
+* You'll need to use an `if` and an `else` statement to implement the logic of grandma responding with the appropriate string based on whether or not you speak to her in all uppercase. 
 * Think about how we can check to see if a string is all uppercase. Reference the information below on manipulating strings. 
 
 
