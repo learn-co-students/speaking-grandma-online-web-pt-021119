@@ -10,7 +10,7 @@
 1. Fork and clone this lab.
 2. Run the test suite using `rspec` or `learn`. You'll be coding your solution in `grandma.rb`.
 3. Write a `speak_to_grandma` method. 
-	* The method should take in an argument of a phrase and check to see if the phrase is written in all caps. If it isn't, then grandma can't hear you. She should respond with ""HUH?! SPEAK UP, SONNY!"
+	* The method should take in an argument of a phrase and check to see if the phrase is written in all caps. If it isn't, then grandma can't hear you. She should respond with "HUH?! SPEAK UP, SONNY!"
 	* However, if you shout at her (i.e. call the method with an argument of a phrase that *is* in all caps, then she can hear you (or at least she thinks she can) and should respond with "NO, NOT SINCE 1938!"
 
 **A few things to think about:**
