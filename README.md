@@ -18,6 +18,7 @@
 
 * You'll need to use an `if` and an `else` statement to implement the logic of grandma responding with the appropriate string based on whether or not you speak to her in all uppercase. 
 * Think about how we can check to see if a string is all uppercase. Reference the information below on manipulating strings. 
+* Think about the response as a return value.
 
 
 ## Manipulating Strings
