@@ -43,4 +43,4 @@ There are many methods on the [String class](http://www.ruby-doc.org/core-2.1.4/
 Which one can we use to check that the argument string (i.e. what you're saying to Grandma) is all uppercase? You can use the comparison operator (`==`) to determine if the string you pass into your method call as an argument *matches* ("is equal to") that same string, but in uppercase form. 
 
 
-<a href='https://learn.co/lessons/speaking-grandma' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/speaking-grandma' title='Speak to Grandma'>Speak to Grandma</a> on Learn.co and start learning to code for free.</p>
