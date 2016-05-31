@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Control flow by using `if`, `elsif`and `else` statements.
+1. Control flow by using `if`, `elsif`, and `else` statements.
 2. Manipulate strings correctly.
 3. Evaluate the type case of a string.
 
@@ -13,18 +13,18 @@
 3. Write a `speak_to_grandma` method. 
 	* The method should take in a string argument containing a phrase and check to see if the phrase is written in all uppercase: if it isn't, then grandma can't hear you. She should then respond with (return) `HUH?! SPEAK UP, SONNY!`.
 	* If you shout at her (i.e. call the method with a string argument containing a phrase that *is* all uppercase, then she *can* hear you (or at least she thinks that she can) and should respond with (return) `NO, NOT SINCE 1938!`.
-  * However, if the phrase is *exactly* equel to: `"I LOVE YOU GRANDMA!"`, then Grandma is very pleased and definitely hears that! and should repond with (return) `I LOVE YOU TOO PUMPKIN!`
+  * However, if the phrase is *exactly* equal to: `"I LOVE YOU GRANDMA!"`, then Grandma is very pleased and definitely hears that! and should repond with (return) `I LOVE YOU TOO PUMPKIN!`
 
 **A few things to think about:**
 
-* You'll need to use `if` `elsif` and `else` statements to implement the logic of grandma responding with the appropriate string based on whether or not you speak to her in all uppercase, and/or whether you express your love. 
+* You'll need to use `if`, `elsif`, and `else` statements to implement the logic of grandma responding with the appropriate string based on whether or not you speak to her in all uppercase, and/or whether you express your love. 
 * Think about how we can check to see if a string is all uppercase. Reference the information below on manipulating strings. 
 * Think about the response as a return value.
 
 
 ## Manipulating Strings
 
-One of the things you'll need to determine, is if the argument that the `speak_to_grandma` method takes in is formatted a certain way (all uppercase).
+One of the things you'll need to determine is if the argument that the `speak_to_grandma` method takes in is formatted a certain way (all uppercase).
 
 There are many methods on the [String class](http://www.ruby-doc.org/core-2.1.4/String.html) that manipulate strings. Let's take a look at a few:
 
