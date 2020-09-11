@@ -9,7 +9,7 @@
 ## Instructions
 
 1. Fork and clone this lab.
-2. Run the test suite using either the `rspec` or `learn` command. You'll be coding your solution in `grandma.rb`.
+2. Run the test suite using either the `rspec` or `learn test` command. You'll be coding your solution in `grandma.rb`.
 3. Write a `speak_to_grandma` method. 
 	* The method should take in a string argument containing a phrase and check to see if the phrase is written in all uppercase: if it isn't, then grandma can't hear you. She should then respond with (return) `HUH?! SPEAK UP, SONNY!`.
 	* If you shout at her (i.e. call the method with a string argument containing a phrase that *is* all uppercase, then she *can* hear you (or at least she thinks that she can) and should respond with (return) `NO, NOT SINCE 1938!`.
