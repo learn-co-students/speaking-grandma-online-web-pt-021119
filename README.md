@@ -46,4 +46,4 @@ Which one can we use to check that the argument string (i.e. what you're saying 
 On that same note, we can also use the comparison operator to check and see if the string matches `"I LOVE YOU GRANDMA!"`
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/speaking-grandma' title='Speak to Grandma'>Speak to Grandma</a> on Learn.co and start learning to code for free.</p>
+
